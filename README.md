@@ -1,3 +1,3 @@
 # techtitan-demo
 this my first respository
-author:manish 
+author:manish kumar
